@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Expo / React Native
+.expo/
+.expo-shared/
+web-build/
+dist/
+
+# Logs
+logs
+*.log
+
+# macOS
+.DS_Store
+
+# Env
+.env
